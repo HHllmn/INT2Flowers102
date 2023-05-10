@@ -84,10 +84,13 @@ Finished working on Results and Evaluation
 Harry Hillman
 Changed batch size to 128 to experiment
 Added CentreCrops
+Adjusted image transformations
 
 ## 09/05/2023
 Harry Hillman
 Wrote all of the method section for the write up
+Reran code multiple times, varying epoch count/batch size
+Adjusted image tranformations
 
 ## 09/05/2023
 Jack Vickers
